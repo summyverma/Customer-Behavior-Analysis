@@ -1,7 +1,7 @@
 # Customer-Behavior-Analysis
 Data Analytics Projects Showcasing Customer Behavior Analysis Using Ms Excel,Python,MySQL,PowerBi,Ms Powerpoint
 ## 📊 Customer Shopping Behavior Analysis – Data Analytics Project
-🔍 Overview
+**🔍 Overview**
 
 This project analyzes customer shopping behavior using a dataset of 3,900 transactions across multiple product categories.
 The objective is to understand spending patterns, customer segments, product preferences, discount usage, and subscription impact.
@@ -21,7 +21,8 @@ Building a written report
 Preparing a presentation using Gamma
 
 
-📂 Dataset
+
+**📂 Dataset**
 
 The dataset contains 3,900 records and 18 columns.
 Key attributes include:
@@ -38,7 +39,7 @@ Customer shopping behavior anal…
 
 This dataset provides enough depth to explore customer behavior and build data-driven insights.
 
-🧰 Tools Used
+**🧰 Tools Used**
 
 Python (Pandas, NumPy, Matplotlib/Seaborn) – EDA & cleaning
 
@@ -53,7 +54,8 @@ Gamma – Presentation slides
 GitHub – Version control & portfolio showcase
 
 🪜 Project Steps
-1. Exploratory Data Analysis (Python)
+
+**1. Exploratory Data Analysis (Python)**
 
 Loaded dataset using pandas
 
@@ -75,7 +77,7 @@ Exported cleaned dataset into MySQL database for further analysis
 
 Customer shopping behavior anal…
 
-2. SQL Analysis (MySQL)
+**2. SQL Analysis (MySQL)**
 
 Executed multiple business-oriented queries such as:
 
@@ -97,7 +99,7 @@ Customer segmentation: New vs Returning vs Loyal customers
 
 These SQL insights helped validate patterns identified during Python EDA.
 
-3. Power BI Dashboard
+**3. Power BI Dashboard**
 
 An interactive dashboard was created to visually explore:
 
@@ -113,7 +115,7 @@ Rating distribution & shipping preferences
 
 The dashboard enables quick decision-making for marketing and business teams.
 
-4. Report Creation
+**4. Report Creation**
 
 A written report summarizes:
 
@@ -125,7 +127,7 @@ Key findings from Python, SQL, and Power BI
 
 Actionable recommendations for improving customer retention, discount strategy, and product positioning
 
-5. Presentation (Gamma)
+**5. Presentation (Gamma)**
 
 A clean, professional slide deck was designed in Gamma to communicate:
 
@@ -141,7 +143,7 @@ Final conclusions
 
 This presentation is suitable for interviews, stakeholders, and portfolio showcase.
 
-🖥 Results & Insights
+**🖥 Results & Insights**
 
 Some key outcomes include:
 
