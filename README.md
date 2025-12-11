@@ -19,6 +19,7 @@ Creating an interactive Power BI dashboard
 Building a written report
 
 Preparing a presentation using Gamma
+<img width="1101" height="537" alt="Screenshot 2025-12-09 085119" src="https://github.com/user-attachments/assets/63f3c914-1c57-42db-8f4c-8195d14a3a7e" />
 
 
 
