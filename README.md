@@ -19,7 +19,7 @@ Creating an interactive Power BI dashboard
 Building a written report
 
 Preparing a presentation using Gamma
-<img width="1101" height="537" alt="Screenshot 2025-12-09 085119" src="https://github.com/user-attachments/assets/63f3c914-1c57-42db-8f4c-8195d14a3a7e" />
+
 
 
 
@@ -40,6 +40,8 @@ Customer shopping behavior anal…
 
 This dataset provides enough depth to explore customer behavior and build data-driven insights.
 
+
+
 **🧰 Tools Used**
 
 Python (Pandas, NumPy, Matplotlib/Seaborn) – EDA & cleaning
@@ -53,6 +55,8 @@ MS Word / PDF – Final report
 Gamma – Presentation slides
 
 GitHub – Version control & portfolio showcase
+<img width="1408" height="652" alt="Screenshot 2025-12-09 085134" src="https://github.com/user-attachments/assets/dcdf6542-a4bb-4ec0-989c-dd7ff7ca957c" />
+
 
 🪜 Project Steps
 
